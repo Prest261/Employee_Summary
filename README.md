@@ -6,9 +6,9 @@ This is a software engineering team generator command line application. This app
 This application is meant to be used to help put together a team quickly and efficently and be able to display the data in an organized way.
 
 ## Installations
-npm inquirer
-npm path
-npm fs
+* npm inquirer
+* npm path
+* npm fs
 
 ## Github Repo Link:
 https://github.com/Prest261/Employee_Summary
